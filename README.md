@@ -15,7 +15,7 @@ Console base project ( 2021 ).
   About Models : 
   Student , Teacher and Staff classes extends from Person.
 ## Task
-   Manager :
+   ### Manager :
    
     - [X] Create, edit and delete lesson
     - [X] Create, edit and delete class
