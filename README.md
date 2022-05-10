@@ -31,5 +31,5 @@ Console base project ( 2021 ).
    - [X] View average and standard deviation of specific lesson grades from a specific class
    - [X] View the grades of a specific teacher from a specific lesson
   
-   Teacher :
-    - [X]
+  >Teacher :
+   - [X]
