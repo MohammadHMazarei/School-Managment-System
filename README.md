@@ -1,6 +1,6 @@
 # School-Managment-System
 Console base project ( 2021 ).
-> About : Schoole managment system is a project base on OOP ( Object-oriented programming ) which has several parts that any school needs to save theire data of teachers , students , lessons and etc. I used clean-code issue to programm this project. I used MariaDB ( MySql ) Database. In Task part you can see functions of this project.
+> About : Schoole managment system is a project base on OOP ( Object-oriented programming ) which has several parts that any school needs to save theire data of teachers , students , lessons and etc. I used clean-code issue to programm this project. In Task part you can see functions of this project.
 ## Model
 > Models :
   ```
@@ -32,4 +32,16 @@ Console base project ( 2021 ).
    - [X] View the grades of a specific teacher from a specific lesson
   
 > Teacher :
-   - [X]
+   - [X] View grades of student of your lesson
+   - [X] Add , edit and delete grades of student of your lesson
+   - [X] View average and standard deviation of specific lesson
+> Student :
+   - [X] View grades of specific lesson
+   - [X] View average of specific lesson
+## Validations
+*Validation set for all Tasks*
+## Features
+> Features on next version :
+  1. Hashing for password
+  2. Forget password
+  4. Database 
