@@ -43,5 +43,5 @@ Console base project ( 2021 ).
 ## Features
 > Features on next version :
   1. Hashing for password
-  2. Forget password
+  2. Forgot password
   4. Database 
